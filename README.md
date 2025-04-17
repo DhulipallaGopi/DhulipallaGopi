@@ -70,6 +70,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+<strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ### 🤝 Let's Connect
 
