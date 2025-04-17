@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Dhulipalla Gopi Chandu</h1>
 <h3 align="center">Software Engineer | AI-ML Enthusiast | Full-Stack Developer</h3>
 <br>
-    <center><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"><center>
+    <center><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></center>
 
 <p align="center">
   <a href="mailto:gopichandudhulipalla@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
