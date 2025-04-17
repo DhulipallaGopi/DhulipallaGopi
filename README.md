@@ -16,14 +16,14 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="mailto:gopichandudhulipalla@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dhulipalla-gopi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" /></a>
+  <a href="https://github.com/DhulipallaGopi"><img src="https://img.shields.io/github/followers/DhulipallaGopi?label=Follow&style=social" /></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently pursuing **B.Tech in AI & ML** at R.V.R & J.C College of Engineering (CGPA: 9.04/10)
-- 👨‍💻 Ex-Intern at **Skilldzire (Healthcare AI)** – Developed a Heart Disease Prediction ML model with **94% accuracy**
-- 🌱 I’m currently learning: **LLMs, MLOps & React Native**
-- 💬 Ask me about: **Python, SQL, Full Stack Development, ML Projects**
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning @ **R.V.R & J.C College of Engineering** | CGPA: **9.04/10**
+- 💼 Software Intern at **Skilldzire (Healthcare AI)** – Built a Heart Disease Prediction ML model (**94% accuracy**)
+- 🔍 Learning **LLMs**, **MLOps**, **React Native**
+- 🧠 Passionate about solving real-world problems using tech  
 - 📫 Reach me at: **gopichandudhulipalla@gmail.com**
