@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning @ **R.V.R & J.C College of Engineering** | CGPA: **9.04/10**
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning @ **R.V.R & J.C College of Engineering** 
 - 💼 Software Intern at **Skilldzire (Healthcare AI)** – Built a Heart Disease Prediction ML model (**94% accuracy**)
 - 🔍 Learning **LLMs**, **MLOps**, **React Native**
 - 🧠 Passionate about solving real-world problems using tech  
