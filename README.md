@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhulipallaGopi  
 - 👀 I’m interested in building intelligent systems, full-stack applications, and solving real-world problems  
-- 🌱 I’m currently learning React Native, LLMs, and MLOps  
+- 🌱 I’m currently learning LLMs, and MLOps  
 - 💞️ I’m looking to collaborate on AI/ML, full-stack, and open-source projects  
 - 📫 How to reach me: gopichandudhulipalla@gmail.com  
 - 😄 Pronouns: He/Him  
