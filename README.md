@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Dhulipalla Gopi Chandu</h1>
 <h3 align="center">Software Engineer | AI-ML Enthusiast | Full-Stack Developer</h3>
-br>
+<br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <p align="center">
